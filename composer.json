@@ -1,0 +1,19 @@
+{
+    "name": "programmerzamannow/composer-library-hello",
+    "description": "Library Composer Hello",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Programmerzamannow\\ComposerLibraryHello\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Arief Tri Wicaksono",
+            "email": "triarief.wicaksono@gmail.com"
+        }
+    ],
+    "require": {
+        "php" : ">=8.0"
+    }
+}
