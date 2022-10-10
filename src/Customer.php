@@ -1,6 +1,6 @@
 <?php 
 
-namespace ProgrammerZamanNow\BelajarComposerLibrary;
+namespace Programmerzamannow\ComposerLibraryHello;
 
 class Customer
 {
